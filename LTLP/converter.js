@@ -544,12 +544,3 @@ var ob=document.getElementById("poems");
 ob.innerHTML=1+ind+")"+oo.innerHTML;
 
 }
-
-
-
-
-
-
-
-
-//tpce06uc
