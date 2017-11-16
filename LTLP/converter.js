@@ -3,7 +3,8 @@
 // Chandassu Recognizer - Identifies Chadhassu for Telugu Poems or Text
 // Indic scripts.
 
-// Copyright (C) 2017, P Anil Kishan <anilkishu@gmail.com>, S Harika <sirimallaharika14@gmail.com>, G Navitha <navitha.gomasi6@gmail.com> ,Humera Tazeen <mirzatazeen.518@gmail.com>,
+// Copyright (C) 2017, P Anil Kishan <anilkishu@gmail.com>, S Harika <sirimallaharika14@gmail.com>, 
+G Navitha <navitha.gomasi6@gmail.com> ,Humera Tazeen <mirzatazeen.518@gmail.com>,
 
 // Chandassu Recognizer is free software; you can redistribute it
 // and/or modify it under the terms of the GNU General Public License
